@@ -15,11 +15,6 @@ footer {
   grid-area: TextoCopyright;
 }
 
-.LogoRodape {
-  justify-self: center;
-  grid-area: LogoRodape;
-}
-
 footer small {
   color: white;
 }
